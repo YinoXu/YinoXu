@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 * 😄 My name is Yinuo Xu / her
-  * A Senior Student at [@nyu](https://github.com/nyu)
+  * A Senior Student at [@NYU](https://github.com/nyu)
   * Former Data Development Intern at [@Qihoo360](https://github.com/Qihoo360)
   * Data Analysis Research Assitant at [@NYUShanghai](https://github.com/NYUShanghai)
 * 📫 How to reach me
