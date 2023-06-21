@@ -6,6 +6,7 @@
 * 📫 How to reach me
   * Email: leenayeno@gmail.com
   * LinkedIn: [Yinuo Xu](https://www.linkedin.cn/incareer/in/ACoAADP0wKQBIMVwck7povPETedsWCDtbt5k2tE)
+* ![Yino's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinoXu&show_icons=true&theme=radical)
 <!--
 **YinoXu/YinoXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
