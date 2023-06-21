@@ -1,8 +1,8 @@
 ### Hello and welcome! 👋
 * 😄 My name is Yinuo Xu / her
-  * A Senior Student at [@NYU](https://nyu.edu/)
-  * Former Data Development Intern at [@Qihoo360](https://www.360totalsecurity.com/en/about/)
-  * Data Analysis Research Assitant at [@NYUShanghai](https://shanghai.nyu.edu/)
+  * A Senior Student at [NYU](https://nyu.edu/)
+  * Former Data Development Intern at [Qihoo360](https://www.360totalsecurity.com/en/about/)
+  * Data Analysis Research Assitant at [NYUShanghai](https://shanghai.nyu.edu/)
 * 📫 How to reach me
   * Email: leenayeno@gmail.com
   * LinkedIn: [Yinuo Xu](https://www.linkedin.cn/incareer/in/ACoAADP0wKQBIMVwck7povPETedsWCDtbt5k2tE)
