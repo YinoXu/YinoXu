@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hello and welcome! 👋
+* 😄 My name is Yinuo Xu / her
+  * A Senior Student at [@nyu](https://github.com/nyu)
+  * Former Data Development Intern at [@Qihoo360](https://github.com/Qihoo360)
+  * Data Analysis Research Assitant at [@NYUShanghai](https://github.com/NYUShanghai)
+* 📫 How to reach me
+  * Email: leenayeno@gmail.com
+  * LinkedIn: [Yinuo Xu](https://www.linkedin.cn/incareer/in/ACoAADP0wKQBIMVwck7povPETedsWCDtbt5k2tE)
 <!--
 **YinoXu/YinoXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
