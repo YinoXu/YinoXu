@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 * 😄 My name is Yinuo Xu / her
-  * A Senior Student at [NYU](https://nyu.edu/)
+  * A Senior Student at [NYU](https://nyu.edu/), majoring in math and computer science (double major)
   * Former Data Development Intern at [Qihoo360](https://www.360totalsecurity.com/en/about/)
   * Data Analysis Research Assitant at [NYUShanghai](https://shanghai.nyu.edu/)
 * 📫 How to reach me
