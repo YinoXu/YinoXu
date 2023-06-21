@@ -7,7 +7,7 @@
   * Email: leenayeno@gmail.com
   * LinkedIn: [Yinuo Xu](https://www.linkedin.cn/incareer/in/ACoAADP0wKQBIMVwck7povPETedsWCDtbt5k2tE)
 
-![Yino's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinoXu&show_icons=true&hide_rank=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=pink)
+![Yino's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinoXu&show_icons=true&hide_rank=true&title_color=#7FFFD4&icon_color=bb2acf&text_color=daf7dc&bg_color=#FFC0CB)
 
 
 <!-- ![Yino's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinoXu&show_icons=true&theme=radical)-->
