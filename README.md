@@ -8,7 +8,7 @@
 * Data Science Researcher at the [Microsoft DS3 Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/academic-programs/)
 
 * 📫 How to reach me
-  * Email: yinuoxu@seas.upenn.edu
+  * Email: xuyinuo@seas.upenn.edu
   * LinkedIn: [Yinuo Xu](https://www.linkedin.cn/incareer/in/ACoAADP0wKQBIMVwck7povPETedsWCDtbt5k2tE)
   
 ![Yino's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinoXu&show_icons=true&hide_rank=true&title_color=586069&icon_color=FFC0CB&text_color=586069&bg_color=daf7dc)<img src="gif/dog.gif" alt="Alt Text" style="max-width: 100px; max-height: 100px;">
