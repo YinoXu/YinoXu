@@ -2,10 +2,11 @@
 😄 My name is Yinuo Xu.
 
 * Graduate Student at [Upenn](https://www.upenn.edu/), majoring in Computer Science
-* BA from [NYU](https://nyu.edu/), double major in Math and Computer Science
+* BA from [NYU](https://nyu.edu/), double major with honor in Math and Computer Science
+* Former Data Science Researcher at the [Microsoft DS3 Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/academic-programs/)
 * Former Data Development Intern at [Qihoo360](https://www.360totalsecurity.com/en/about/)
-* Former Data Analysis Research Assistant at [NYU Shanghai](https://shanghai.nyu.edu/)
-* Data Science Researcher at the [Microsoft DS3 Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/academic-programs/)
+* Former Data Analysis Research Assistant at [NYU](https://shanghai.nyu.edu/)
+
 
 * 📫 How to reach me
   * Email: xuyinuo@seas.upenn.edu
