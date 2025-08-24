@@ -9,7 +9,7 @@
 
 
 * 📫 How to reach me
-  * Email: xuyinuo@seas.upenn.edu
+  * Email: xuyinuo@cis.upenn.edu
   * LinkedIn: [Yinuo Xu](https://www.linkedin.cn/incareer/in/ACoAADP0wKQBIMVwck7povPETedsWCDtbt5k2tE)
  
 ![Yino's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinoXu&show_icons=true&hide_rank=true&title_color=586069&icon_color=FFC0CB&text_color=586069&bg_)
