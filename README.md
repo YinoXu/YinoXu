@@ -3,8 +3,7 @@
 
 * PhD Student at [Upenn CIS](https://www.cis.upenn.edu/)
 * BA from [NYU](https://nyu.edu/), double major with honor in Math and Computer Science
-* Former Data Science Researcher at the [Microsoft DS3 Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/academic-programs/)
-* Former Data Development Intern at [Qihoo360](https://www.360totalsecurity.com/en/about/)
+* Former Student Researcher at the [Microsoft DS3 Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/academic-programs/)
 * Former Data Analysis Research Assistant at [NYU](https://shanghai.nyu.edu/)
 
 
